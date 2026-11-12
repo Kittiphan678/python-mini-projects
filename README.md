@@ -1,2 +1,2 @@
-# python-mini-projects
-A collection of beginner-friendly Python mini-projects and CLI applications.
+## 📂 Projects List
+* **[Mini POS System (CLI)](./mini_pos)** - ระบบคิดเงินหน้าร้านขนาดเล็ก พร้อมระบบล็อกอินแคชเชียร์ คำนวณส่วนลดสมาชิก และสรุปยอดขายรายวัน
